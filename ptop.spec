@@ -3,7 +3,7 @@ Summary(pl.UTF-8):	ptop - 'top' dla PostgreSQL
 Name:		ptop
 %define	_beta	beta2
 Version:	3.6.2
-Release:	0.%{_beta}.1
+Release:	0.%{_beta}.2
 License:	BSD-like
 Group:		Applications
 Source0:	http://pgfoundry.org/frs/download.php/1718/%{name}-%{version}-%{_beta}.tar.bz2
